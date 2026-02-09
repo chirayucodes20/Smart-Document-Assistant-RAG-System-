@@ -2,8 +2,6 @@
 
 > **A Full-Stack RAG (Retrieval Augmented Generation) Application built with FastAPI, React, and Groq AI.**
 
-![Project Screenshot](./frontend/public/vite.svg) 
-*(Note: Replace this line with your actual screenshot link later)*
 
 ## 🚀 About The Project
 
