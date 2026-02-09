@@ -1,0 +1,10 @@
+# Python ka kachra
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node.js ka kachra (Frontend)
+node_modules/
+dist/
+.DS_Store
